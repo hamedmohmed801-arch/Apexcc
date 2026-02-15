@@ -75,19 +75,29 @@
         "md5": false
     },
     {
+        "path": "authors/mrw",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/mrw/index.html",
+        "type": "file",
+        "md5": "7afb23d59217330f01ed0cc3ab9c9fab"
+    },
+    {
         "path": "feed.json",
         "type": "file",
-        "md5": "2cebf50ca4c0fd1ffd56d49217583d2e"
+        "md5": "87c1a000dfb4976fef439cdfc522bbe0"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "35d3f29093f20da742cecc4c44359e7b"
+        "md5": "2304a9687cbfe72051798337673d1ab4"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "cb4b3261b84d83b88a3f291d2d6adb96"
+        "md5": "81b0968d89c53a746b12cabd5b68ba1f"
     },
     {
         "path": "robots.txt",
@@ -95,9 +105,24 @@
         "md5": "c295b6a096e6a5a6a8f3e562eab9d89e"
     },
     {
+        "path": "shrk-tnzyf-fy-mrdf-khtyrk-lmthl-ljaal-mnzlk-kthr-shrqan.html",
+        "type": "file",
+        "md5": "fc9e6daf8685a1218bd549b62b8c32f1"
+    },
+    {
+        "path": "shrk-tnzyf-fy-mrdf-khtyrk-lmthl-llhfz-aal~-nzf-mnzlk.html",
+        "type": "file",
+        "md5": "06a9d4f619cd5af10a8536f5bada7d15"
+    },
+    {
+        "path": "shrk-tnzyf-fy-mrdf-tjrb-tnzyf-fkhr-lmnzlk-w-mktbk.html",
+        "type": "file",
+        "md5": "fdffb90aff7e127a979d427f5b728f8d"
+    },
+    {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "15b67f63682000387c28045ceed4274d"
+        "md5": "7e609bd9045f28645a5fce6d893af903"
     },
     {
         "path": "sitemap.xsl",
